@@ -1,2 +1,2 @@
-This is my fisrt collaboration project 
+This is my fisrt collaboration project
 Project name: Printf
